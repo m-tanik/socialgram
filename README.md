@@ -1,6 +1,6 @@
 # social_gram
 
-A new Flutter application.
+A photo sharing flutter application.
 
 ## Getting Started
 
