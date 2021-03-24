@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "627652768297",
+    "firebase_url": "https://socialgram-73568.firebaseio.com",
+    "project_id": "socialgram-73568",
+    "storage_bucket": "socialgram-73568.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627652768297:android:7b877199872bb101a46238",
+        "android_client_info": {
+          "package_name": "com.django.social_gram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627652768297-9f25phlrrd7gn65j9gme0r8re504c4n0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.django.social_gram",
+            "certificate_hash": "49f240579aa9e08d520283ef32bba52df7e263b5"
+          }
+        },
+        {
+          "client_id": "627652768297-jepsm7h3sanh0b62enu6uj5k5etghveq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9BeDAc1LQz1xr65J8NKawZSf0IdV7wqc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627652768297-jepsm7h3sanh0b62enu6uj5k5etghveq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
